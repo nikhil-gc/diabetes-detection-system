@@ -1,2 +1,4 @@
 # diabetes-detection-system
-diabetes detection system using machine learning(SVM algorithm) python with a user interface created using gradio library in python
+diabetes detection system using machine learning in python
+svm classification algorithm is used for the classifcation 
+user interface is created using gradio library in python
